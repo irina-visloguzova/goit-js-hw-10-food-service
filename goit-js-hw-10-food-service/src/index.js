@@ -1,3 +1,3 @@
 import './styles.css';
-import menu from './misc/menu.json';
-
+import '../src/misc/cards-markup';
+import './misc/switch-theme';
